@@ -12,4 +12,4 @@ My name is _Javi_, I'm from Spain and let's would say that I'm a **SRE**
 
 ## 📩 Contact
 
-You can find all my resume details [here](https://github.com/jjuarez/about.me) [twitter](https://twitter.com/thejtoken) [email](emailto:javier.juarez@gmail.com)
+You can find all my resume details [here](https://github.com/jjuarez/about.me)
