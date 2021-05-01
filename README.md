@@ -10,7 +10,6 @@ My name is _Javi_, I'm from Spain and let's would say that I'm a **SRE**
 * Critical thinking, decision-making and problem solving skills
 * When I have to code I prefer to do that with python, nodeJS, ruby, shellscripting...
 
-## 📩 Contact
+## 📩 Contact
 
 You can find all my resume details [here](https://github.com/jjuarez/about.me) [twitter](https://twitter.com/thejtoken) [email](emailto:javier.juarez@gmail.com)
-
