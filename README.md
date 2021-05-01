@@ -19,7 +19,7 @@ My name is Javi and I'm a software development/DevOps/SRE engineer. I'm from Spa
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift)
 
-## ✉️  Contact
+## ✉️ Contact
 You can find all my resume details [here](https://github.com/jjuarez/about.me)
 
 <!-- links to social media icons -->
