@@ -1,10 +1,13 @@
-## 👋 Hello, folks! 
+## 👋 Hi, folks!
+
 My name is Javi and I'm a software development/DevOps/SRE engineer. I'm from Spain and currently working at [IBM Research](https://research.ibm.com/) in the [Quantum project](https://www.ibm.com/quantum-computing/). You can fin me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
+
 ## 🪄  Skills 
-* AWS, IBMCloud, Terraform, Docker, ansible, having definitely a cloud-native mindset
+
+* AWS, IBMCloud, CloudFoundry, Terraform, Docker, ansible, having definitely a cloud-native mindset
 * Critical thinking, decision-making and problem solving skills
-* When I have to code I prefer to do that with python, ruby, golang, bash...
+* When I have to code I prefer to do that with python, ruby, golang, bash, but lately I'm taking a look to [rust](https://www.rust-lang.org/) and I ❤️ it
 
 ## 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
@@ -37,11 +40,3 @@ You can find all my resume details [here](https://github.com/jjuarez/about.me)
 [1]: https://twitter.com/thejtoken
 [2]: https://github.com/jjuarez
 [3]: https://www.linkedin.com/in/javierjuarez/
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
