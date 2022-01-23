@@ -24,6 +24,8 @@ My name is Javi and I'm a software development/DevOps/SRE engineer. I'm from Spa
 
 ## ✉️ Contact
 You can find all my resume details [here](https://github.com/jjuarez/about.me)
+or your can ping me on [twitter](https://twitter.com/thejtoken) my DMs are open
+or [drop me an email](mailto:jj@chainedto.cloud)
 
 <!-- links to social media icons -->
 
