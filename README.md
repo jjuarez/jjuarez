@@ -1,6 +1,6 @@
 ## 👋 Hi, folks!
 
-My name is Javi and I'm a software development/DevOps/SRE engineer. I'm from Spain and currently working at [IBM Research](https://research.ibm.com/) on the [Quantum project](https://www.ibm.com/quantum-computing/), I'm a person pasionate about technology, you can fin me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Javi and I'm a software development/DevOps/SRE engineer. I'm from Spain and currently working at [IBM Research](https://research.ibm.com/) on the [Quantum project](https://www.ibm.com/quantum-computing/), I'm a person pasionate about technology, you can fin me on: [Mastodon][4], [Twitter][1], or on [LinkedIn][3].
 
 ## 🪄  Skills 
 * AWS, IBMCloud, CloudFoundry, Terraform, Docker, ansible, having definitely a cloud-native mindset
@@ -40,3 +40,6 @@ or [drop me an email](mailto:jj@chainedto.cloud)
 [1]: https://twitter.com/thejtoken
 [2]: https://github.com/jjuarez
 [3]: https://www.linkedin.com/in/javierjuarez/
+[4]: https://@thejtoken@hachyderm.io
+
+<a rel="me" href="https://hachyderm.io/@thejtoken">Mastodon</a>
