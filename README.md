@@ -1,6 +1,6 @@
 ## 👋 Hi, folks!
 
-My name is Javi and I'm a software development/DevOps/SRE engineer. I'm from Spain and currently working at [IBM Research](https://research.ibm.com/) on the [Quantum project](https://www.ibm.com/quantum-computing/), I'm a person pasionate about technology, you can fin me on: [Mastodon][4], [Twitter][1], or on [LinkedIn][3].
+My name is Javi and I'm a software development/DevOps/SRE engineer. I'm from Spain and currently working at [IBM Research](https://research.ibm.com/) on the [Quantum project](https://www.ibm.com/quantum-computing/), I'm a person pasionate about technology, you can fin me on: <a rel="me" href="https://hachyderm.io/@thejtoken">Mastodon</a>, [Twitter][1], or on [LinkedIn][3].
 
 ## 🪄  Skills 
 * AWS, IBMCloud, CloudFoundry, Terraform, Docker, ansible, having definitely a cloud-native mindset
@@ -25,21 +25,7 @@ You can find all my resume details [here](https://github.com/jjuarez/about.me)
 or your can ping me on [twitter](https://twitter.com/thejtoken) my DMs are open
 or [drop me an email](mailto:jj@chainedto.cloud)
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/thejtoken
 [2]: https://github.com/jjuarez
 [3]: https://www.linkedin.com/in/javierjuarez/
-[4]: https://hachyderm.io/web/@thejtoken
-
-<a rel="me" href="https://hachyderm.io/@thejtoken">Mastodon</a>
