@@ -40,6 +40,6 @@ or [drop me an email](mailto:jj@chainedto.cloud)
 [1]: https://twitter.com/thejtoken
 [2]: https://github.com/jjuarez
 [3]: https://www.linkedin.com/in/javierjuarez/
-[4]: https://@thejtoken@hachyderm.io
+[4]: https://hachyderm.io/web/@thejtoken
 
 <a rel="me" href="https://hachyderm.io/@thejtoken">Mastodon</a>
